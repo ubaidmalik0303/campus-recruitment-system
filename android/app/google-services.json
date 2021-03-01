@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107148043050",
+    "project_id": "campus-recruitment-syste-13cb8",
+    "storage_bucket": "campus-recruitment-syste-13cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107148043050:android:9f2c23f9523fe505fd3453",
+        "android_client_info": {
+          "package_name": "com.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107148043050-k47atv0fkkjmesg4t67aethvpq19jraa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUMpQ_Kcd3iElKSL2lJRFEIqtSSixFGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107148043050-k47atv0fkkjmesg4t67aethvpq19jraa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
